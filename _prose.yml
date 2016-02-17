@@ -1,2 +1,3 @@
 prose:
   rooturl: "_posts"
+  media: "uploads"
