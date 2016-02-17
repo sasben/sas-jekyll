@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 ## Testing this out
 
@@ -10,6 +11,3 @@ Let's put an image in:
 ![This is an image]({{site.baseurl}}/uploads/CyeQqzy.jpg)
 
 Could a non-tech person get the hang of this? How about a [link](http://sascreative.com.au "sas")
-
-
-
