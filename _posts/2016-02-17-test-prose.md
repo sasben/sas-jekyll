@@ -1,7 +1,8 @@
 ---
-published: true
 layout: post
+published: true
 ---
+
 
 
 ## Testing this out
